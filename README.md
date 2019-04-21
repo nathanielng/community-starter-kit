@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-This is the Welcome app.
+This is the Welcome app, an app to help new users.
 
 ## What it does
 
-This app will automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
+This app automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## Getting started
 
